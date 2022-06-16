@@ -6,8 +6,8 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Error Fatal</title>
-        <meta name="description" content="Error Fatal es un sitio de preguntas y respuestas para programadores" />
+        <title>ErrorFatal</title>
+        <meta name="description" content="ErrorFatal es un sitio de preguntas y respuestas para programadores" />
         <link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22%3E%3Ctext%20y=%22.9em%22%20font-size=%2290%22%3E⚠️ %3C/text%3E%3C/svg%3E" />
       </Head>
 

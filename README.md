@@ -1,4 +1,4 @@
-# ⚠️ [Error Fatal](https://errorfatal.org)
+# ⚠️ [ErrorFatal](https://errorfatal.org)
 
 ~Clon de StackOverflow~ Un sitio de preguntas y respuestas para programadores
 
