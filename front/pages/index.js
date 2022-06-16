@@ -25,6 +25,7 @@ export default function Home() {
         <a
           href="https://pragmore.com"
           target="_blank"
+          rel="noreferrer"
         >
           Hecho con ❤️  por
           <span className={styles.logo}>
